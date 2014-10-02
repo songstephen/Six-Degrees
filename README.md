@@ -1,6 +1,8 @@
 Six Degrees of Association
 ==========================
 
+<img style="margin: 0 auto" src="screenshot3.png">
+
 This application is the third project I created for LMC 2700: Intro to Computational Media. For this assignment, I was challenged to create a data portrait by crafting a visual representation of a set of data. I utilized the DPLA (Digital Public Library of America) to create an applet which can create word associations between terms that appear frequently in search queries.
 
 ### Instructions
